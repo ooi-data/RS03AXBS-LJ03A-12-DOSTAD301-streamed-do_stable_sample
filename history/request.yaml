@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03AXBS-LJ03A-12-DOSTAD301-streamed-do_stable_sample
-last_request: '2021-03-04T18:25:27.793119Z'
+last_request: '2021-04-01T02:38:53.879074Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXBS-LJ03A-12-DOSTAD301-streamed-do_stable_sample/main/history/response.json
-status: success
+status: pending
